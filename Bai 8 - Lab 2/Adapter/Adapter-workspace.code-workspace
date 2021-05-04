@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "Adapter"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src/refactoring_guru/adapter/example",
+			"src/refactoring_guru"
+		]
+	}
+}

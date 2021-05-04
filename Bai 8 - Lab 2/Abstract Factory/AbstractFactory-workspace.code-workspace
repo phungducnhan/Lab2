@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"Abstract Factory/src/refactoring_guru/abstract_factory/example"
+		]
+	}
+}
